@@ -1,0 +1,5 @@
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\bin\Debug\2014150710.Entities.dll
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\bin\Debug\2014150710.Entities.pdb
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.dll
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.pdb

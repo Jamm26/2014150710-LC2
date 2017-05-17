@@ -1,0 +1,14 @@
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\2014150710.Persistence.dll.config
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\2014150710.Persistence.dll
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\2014150710.Persistence.pdb
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\2014150710.Entities.dll
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\2014150710.Entities.pdb
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\obj\Debug\2014150710.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\obj\Debug\_2014150710.Persistence.Migrations.InitialModel.resources
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\obj\Debug\2014150710.Persistence.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\obj\Debug\2014150710.Persistence.dll
+C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Persistence\obj\Debug\2014150710.Persistence.pdb
