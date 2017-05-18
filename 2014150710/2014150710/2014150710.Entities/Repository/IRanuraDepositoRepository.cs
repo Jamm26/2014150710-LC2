@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2014150710.Entities.Repository
 {
-   public interface IRanuraDepositoRepository:IRepository
+   public interface IRanuraDepositoRepository:IRepository<RanuraDeposito>
     {
     }
 }

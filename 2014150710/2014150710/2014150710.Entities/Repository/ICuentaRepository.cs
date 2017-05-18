@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2014150710.Entities.Repository
 {
-    public interface ICuentaRepository:IRepository
+    public interface ICuentaRepository:IRepository<Cuenta>
     {
     }
 }

@@ -57,6 +57,7 @@
     <Compile Include="Repository\IRepository.cs" />
     <Compile Include="Repository\IRetiroRepository.cs" />
     <Compile Include="Repository\ITecladoRepository.cs" />
+    <Compile Include="Repository\IUnityOfWork.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

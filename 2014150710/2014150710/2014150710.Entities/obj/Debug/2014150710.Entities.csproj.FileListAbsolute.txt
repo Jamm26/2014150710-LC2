@@ -3,3 +3,8 @@ C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\bin\Debug\201
 C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.csprojResolveAssemblyReference.cache
 C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.dll
 C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.pdb
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Entities\bin\Debug\2014150710.Entities.dll
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Entities\bin\Debug\2014150710.Entities.pdb
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.dll
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Entities\obj\Debug\2014150710.Entities.pdb

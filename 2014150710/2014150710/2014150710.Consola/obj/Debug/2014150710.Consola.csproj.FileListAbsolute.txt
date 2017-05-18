@@ -1,1 +1,9 @@
 C:\Users\toshiba\Desktop\2014150710\2014150710\2014150710.Consola\bin\Debug\2014150710.Consola.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\bin\Debug\2014150710.Consola.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\bin\Debug\2014150710.Consola.exe
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\bin\Debug\2014150710.Consola.pdb
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\bin\Debug\2014150710.Entities.dll
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\bin\Debug\2014150710.Entities.pdb
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\obj\Debug\2014150710.Consola.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\obj\Debug\2014150710.Consola.exe
+C:\Users\toshiba\Documents\Visual Studio 2013\Projects\2014150710-LC2\2014150710\2014150710\2014150710.Consola\obj\Debug\2014150710.Consola.pdb

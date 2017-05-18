@@ -70,6 +70,7 @@
     <Compile Include="Repositories\Repository.cs" />
     <Compile Include="Repositories\RetiroRepository.cs" />
     <Compile Include="Repositories\TecladoRepository.cs" />
+    <Compile Include="Repositories\UnityOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\2014150710.Entities\2014150710.Entities.csproj">
